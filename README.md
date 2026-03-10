@@ -23,5 +23,3 @@ Meu foco neste repositório é:
 
 | Manter um ambiente organizado e acessível para acompanhar a minha aprendizagem.
 ```
-
-#### Alterne entre as branchs para visualizar todos os conteúdos estudados.
